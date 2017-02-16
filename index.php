@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 	<meta charset="UTF-8">
-	<title>Edukadu</title>
+	<title><?php bloginfo('name'); ?></title>
 	<link rel="stylesheet" href="css/main.css">
 </head>
 <body>
